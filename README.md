@@ -1,16 +1,16 @@
 # Criminal Moms
-Machine Learning for Crime Prediction
+## Machine Learning for Crime Prediction
 
-Goal:
+### Goal:
 
 Use AI/ML to predict the types of crimes that will occur in the city of Los Angeles. Use input features such as population by area, weather, dwelling type, victim age, season, time of day, and day of the week.
 
 
-Datasets:
-•	Crime Data from 2010 to Present | Los Angeles - Open Data Portal
+### Datasets:
+..*	Crime Data from 2010 to Present | Los Angeles - Open Data Portal
 https://data.lacity.org/A-Safe-City/Crime-Data-from-2010-to-Present/y8tr-7khq
 
-•	Data World
+..*	Data World
 https://data.world/datasets/us-crime
 
 •	Open Weather Map – Hourly weather for the city of Los Angeles
