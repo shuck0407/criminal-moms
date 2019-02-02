@@ -37,11 +37,11 @@ Implementation Details:
 *	Data uploaded into a SQLite database from Excel csv files
 *	Data cleaned and transformed using both Excel and Python Pandas
 *	Various machine learning classification models were used to predict crime codes, crime classification, victim age and dwelling type
-   *kNN (K-Nearest Neighbors)
-   *Decision Tree Classifier
-   *Random Forest Classifier
-   *Random Forest Regressor
-   *Grid Search
-   *LogisticRegression
-   *Data Visualizations using Tableau and Matplotlib
+   *kNN (K-Nearest Neighbors)   
+   *Decision Tree Classifier   
+   *Random Forest Classifier   
+   *Random Forest Regressor   
+   *Grid Search   
+   *LogisticRegression   
+   *Data Visualizations using Tableau and Matplotlib   
 
