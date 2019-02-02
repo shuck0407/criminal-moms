@@ -25,19 +25,19 @@ http://us-city.census.okfn.org/dataset/crime-stats
 
 *	https://www.kaggle.com/datasets?sortBy=relevance&group=featured&search=tag%3A%27crime%27
 
-Software:
-•	Sci-Kit Learn 
-•	Python Pandas
-•	Matplotlib
-•	SQLite Database
-•	Tableau
-•	DB Browser for SQLite
+### Software:
+*	Sci-Kit Learn 
+*	Python Pandas
+*	Matplotlib
+*	SQLite Database
+*	Tableau
+*	DB Browser for SQLite
 
 Implementation Details:
-•	Data uploaded into a SQLite database from Excel csv files
-•	Data cleaned and transformed using both Excel and Python Pandas
-•	Various machine learning classification models were used to predict crime codes, crime classification, victim age and dwelling type
-o	kNN (K-Nearest Neighbors)
+*	Data uploaded into a SQLite database from Excel csv files
+*	Data cleaned and transformed using both Excel and Python Pandas
+*	Various machine learning classification models were used to predict crime codes, crime classification, victim age and dwelling type
+...	kNN (K-Nearest Neighbors)
 o	Decision Tree Classifier
 o	Random Forest Classifier
 o	Random Forest Regressor
